@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c94ec99-503c-4540-a7fb-78604cba14be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/config-data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-eureka-server-development.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/java/com/ejemplo/mscatalogoservice/MsCatalogoServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/java/com/ejemplo/mscatalogoservice/controller/CategoriaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/java/com/ejemplo/mscatalogoservice/entity/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/java/com/ejemplo/mscatalogoservice/repository/CategoriaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/java/com/ejemplo/mscatalogoservice/service/CategoriaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/java/com/ejemplo/mscatalogoservice/service/impl/CategoriaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-catalogo-service/src/test/java/com/ejemplo/mscatalogoservice/MsCatalogoServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/src/main/java/org/episs/mseurekaserver/MsEurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-eureka-server/src/test/java/org/episs/mseurekaserver/MsEurekaServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ms-catalogo-service-development.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-catalogo-service-development.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,18 +23,18 @@
       <entry key="S2" value="1.0" />
       <entry key="S5" value="1.0" />
       <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0000005403158867" />
-      <entry key="M10" value="1.0050086959866156" />
-      <entry key="M15" value="1.1075984292304473" />
-      <entry key="M30" value="3.3455681705437197" />
-      <entry key="H1" value="12.019283009538414" />
-      <entry key="H2" value="24.92369419832171" />
-      <entry key="H4" value="36.2656925489228" />
-      <entry key="D1" value="49.74005137845249" />
-      <entry key="W1" value="52.52124623951632" />
+      <entry key="S30" value="1.0000000000000482" />
+      <entry key="S60" value="1.0000008597437893" />
+      <entry key="M2" value="1.004289768780821" />
+      <entry key="M5" value="2.0204917313544843" />
+      <entry key="M10" value="8.124573671765363" />
+      <entry key="M15" value="14.836474339524935" />
+      <entry key="M30" value="29.0620994200554" />
+      <entry key="H1" value="46.30146782366482" />
+      <entry key="H2" value="65.50694543690025" />
+      <entry key="H4" value="81.74970766677195" />
+      <entry key="D1" value="101.22756639260132" />
+      <entry key="W1" value="105.29746835189262" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -85,23 +56,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9201876506248751" />
-      <entry key="MS500" value="0.9835020740262483" />
-      <entry key="S2" value="0.9958497530944581" />
-      <entry key="S5" value="0.9983378297043665" />
-      <entry key="S10" value="0.999168569213607" />
-      <entry key="S30" value="0.9997227795604651" />
-      <entry key="S60" value="0.9998613801725043" />
-      <entry key="M2" value="0.9999306876841536" />
-      <entry key="M5" value="0.9999728148018661" />
-      <entry key="M10" value="1.00499477809937" />
-      <entry key="M15" value="1.1075883738604875" />
-      <entry key="M30" value="3.345554346279294" />
-      <entry key="H1" value="12.019258627624653" />
-      <entry key="H2" value="24.92366882202583" />
-      <entry key="H4" value="36.26567401999219" />
-      <entry key="D1" value="49.740047127761535" />
-      <entry key="W1" value="52.5212455979027" />
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664428955506" />
+      <entry key="S2" value="0.9961949481330542" />
+      <entry key="S5" value="0.9984762383082793" />
+      <entry key="S10" value="0.9992378287015956" />
+      <entry key="S30" value="0.9997458783282261" />
+      <entry key="S60" value="0.9998737906961516" />
+      <entry key="M2" value="1.0042244765659174" />
+      <entry key="M5" value="2.019940307899597" />
+      <entry key="M10" value="8.122116319520341" />
+      <entry key="M15" value="14.833035201607013" />
+      <entry key="M30" value="29.05847898549443" />
+      <entry key="H1" value="46.29882961911472" />
+      <entry key="H2" value="65.50534553831052" />
+      <entry key="H4" value="81.74882434790472" />
+      <entry key="D1" value="101.22740614790159" />
+      <entry key="W1" value="105.29744511882957" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
